@@ -16,6 +16,7 @@
         .first{
             background-color: #D4F6FF;
             text-align: center;
+            width:100%;
         }
         h1{
             font-size: 100px;
@@ -59,6 +60,7 @@
         .second{
             background-color: #F5EFFF;
             text-align: center;
+            width: 100%;
         }
         .other-h{
             font-size: 55px;
@@ -83,6 +85,7 @@
         .third{
             background-color: #B2A5FF;
             height: 700px;
+            width: 100%;
         }
         .two{
             color: rgb(0, 0, 0);
