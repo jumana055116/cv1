@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Jumana</title>
-    <link rel="stylesheet"style.css">
+    <link rel="stylesheet"css/style.css">
     <link rel="icon" href="favicon (1).ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
     <link rel="preconnect" href="https://fonts.googleapis.com">
